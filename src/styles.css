@@ -27,15 +27,6 @@ p {
   padding: 0;
 }
 
-.input-area {
-  background-color: #c1ffff;
-  width: 400px;
-  height: 30px;
-  padding: 8px 8px;
-  margin: 8px;
-  border-radius: 8px;
-}
-
 .incomplete-area {
   background-color: #b9ecc3;
   width: 400px;
